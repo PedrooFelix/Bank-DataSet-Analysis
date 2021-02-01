@@ -7,7 +7,7 @@ Analysis of a Bank Dataset
 # Tools
 Postgree - mysql commands</n>
 
-Python - read the csv
+Python - read the csv and upload into postgree
 
 # Appresentation
 https://prezi.com/view/BggeB6KMrwE6NAfuIVdX/
